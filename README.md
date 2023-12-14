@@ -4,6 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/siam401" target="blank"><img src="https://img.shields.io/twitter/follow/siam401?logo=twitter&style=for-the-badge" alt="siam401" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/siam401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siam401" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/siam401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siam401" height="30" width="40" /></a>
+<a href="https://instagram.com/siam_dbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siam_dbs" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/arman hasan siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arman hasan siam" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/armansiam22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="armansiam22" height="30" width="40" /></a>
+</p>
+
 - 🔭 I’m currently working on [Canadian law firms website](https://web-lawbridge.ebsbd.com/)
 
 - 🌱 I’m currently learning **CI/CD**
@@ -20,13 +29,6 @@
 
 - ⚡ Fun fact **php is dead**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/siam401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siam401" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/siam401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siam401" height="30" width="40" /></a>
-<a href="https://instagram.com/siam_dbs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siam_dbs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/arman hasan siam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arman hasan siam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/armansiam22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="armansiam22" height="30" width="40" /></a>
-</p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siam401&show_icons=true&locale=en&layout=compact" alt="siam401" /></p>
