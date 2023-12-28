@@ -13,12 +13,6 @@
 <a href="https://www.hackerrank.com/armansiam22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="armansiam22" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on [Canadian law firms website](https://web-lawbridge.ebsbd.com/)
-
-- 🌱 I’m currently learning **CI/CD**
-
-- 👯 I’m looking to collaborate on **Nuxt Project**
-
 - 👨‍💻 All of my projects are available at [https://armansiam.com/](https://armansiam.com/)
 
 - 💬 Ask me about **php, laravel, react, next , typeScript**
