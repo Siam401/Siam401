@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-21507
-Fork on GitHub
-6794
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Arman Hasan Siam</h1>
 <h3 align="center">Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Web Applications, PHP, MySQL, PgSQL, Codeigniter, Laravel, Bootstrap, JavaScript, jQuery, Ajax, ReactJs, NextJs and VueJS. Strong engineering professional with a Engineer’s Degree focused in Computer Engineering from Daffodil International University.</h3>
 
