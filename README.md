@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/siam401" target="blank"><img src="https://img.shields.io/twitter/follow/siam401?logo=twitter&style=for-the-badge" alt="siam401" /></a> </p>
 
-- 🔭 I’m currently working on [Canadian law firms website](https://web-lawbridge.ebsbd.com/)
+- 🔭 I’m currently working on [lawyer consultancy software](https://quicklawpro.ca/)
 
 - 🌱 I’m currently learning **CI/CD**
 
-- 👯 I’m looking to collaborate on **Nuxt Project**
+- 👯 I’m looking to collaborate on **Next Js Project**
 
 - 👨‍💻 All of my projects are available at [https://armansiam.com/](https://armansiam.com/)
 
