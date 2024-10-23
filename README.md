@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arman Hasan Siam</h1>
+<h1>Hi 👋, I'm Arman Hasan Siam</h1>
 <h3 align="center">Experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Web Applications, PHP, MySQL, PgSQL, Codeigniter, Laravel, Bootstrap, JavaScript, jQuery, Ajax, ReactJs, NextJs and VueJS. Strong engineering professional with a Engineer’s Degree focused in Computer Engineering from Daffodil International University.</h3>
 
 <p align="left"> <a href="https://twitter.com/siam401" target="blank"><img src="https://img.shields.io/twitter/follow/siam401?logo=twitter&style=for-the-badge" alt="siam401" /></a> </p>
